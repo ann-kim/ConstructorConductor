@@ -54,7 +54,7 @@ users.push(ann);
 
   //code here
 for (var i = 0; i < users.length; i++) {
-  console.log(users[i].name);
+  console.log(users[i].name); // use .name to get value of name key in the object
 }
 
 
